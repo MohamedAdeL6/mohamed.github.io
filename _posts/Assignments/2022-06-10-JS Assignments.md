@@ -10,5 +10,5 @@ toc: true
 ---
 
 # JavaScript Assignments
-## [Check Them Out](https://github.com/MohamedAdeL6/JS_Assignments-)
+## [Check Them Out](https://mohamedadel6.github.io/Profile/)
 
