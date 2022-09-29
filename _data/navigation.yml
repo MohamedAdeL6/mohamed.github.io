@@ -2,7 +2,7 @@
 main:
    - title: "Blogs"
      url: /categories/#Blogs
-   - title: "Malware Analysis"
+   - title: "Assignments"
      url: /categories/#MalwareAnalysis
    - title: "Projects"
      url: /categories/#Projects
