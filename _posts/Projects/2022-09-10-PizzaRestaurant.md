@@ -11,3 +11,9 @@ toc: true
 
 > # Pizza Restaurant Project Using HTML, CSS and JS
 > ## [Check It Out](https://mohamedadel6.github.io/Pizza-Restaurant/)
+# Html
+I added kljasdjklakljkl
+# CSS
+I added jlakdjfsdfk
+# JavaScript
+I added d;asjdfkajsf
