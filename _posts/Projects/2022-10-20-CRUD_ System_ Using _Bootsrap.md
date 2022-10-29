@@ -2,7 +2,7 @@
 title: CRUD System Using Bootsrap
 classes: wide
 header:
-  teaser: https://user-images.githubusercontent.com/110494228/198836004-f9af675f-0442-4239-901d-d69afea71c00.png
+  teaser: https://user-images.githubusercontent.com/110494228/198836154-ecb00d12-7258-44f8-9264-e599af8ca8fe.png
 ribbon: MidnightBlue
 categories:
   - Projects
