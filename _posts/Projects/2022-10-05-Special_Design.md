@@ -10,4 +10,4 @@ toc: true
 ---
 
 > # Special Design Project Using HTML and CSS 
-> ## [Check It Out](https://mohamedadel6.github.io/Profile/)
+> ## [Check It Out](https://mohamedadel6.github.io/Special_Design/)
