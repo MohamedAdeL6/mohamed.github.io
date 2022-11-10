@@ -9,7 +9,7 @@ categories:
 toc: true
 ---
 
-> #  Design Agency Project Using HTML, CSS, js 
+> #  Design Agency Project Using HTML, CSS, Js 
 > ## [Check It Out](https://mohamedadel6.github.io/Design-Agency/)
 
 
