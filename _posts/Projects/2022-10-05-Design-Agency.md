@@ -1,5 +1,5 @@
 ---
-title: Agency-Design
+title: Design-Agency
 classes: wide
 header:
   teaser: https://user-images.githubusercontent.com/110494228/201109578-5a40dd53-febf-4610-9ba9-1575e2a76a9c.jpg
@@ -10,4 +10,4 @@ toc: true
 ---
 
 > # Special Design Project Using HTML and CSS 
-> ## [Check It Out](https://mohamedadel6.github.io/Agency-Design/)
+> ## [Check It Out](https://mohamedadel6.github.io/Design-Agency/)
