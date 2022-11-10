@@ -12,8 +12,5 @@ toc: true
 > # Special Design Project Using HTML and CSS 
 > ## [Check It Out](https://mohamedadel6.github.io/Design-Agency/)
 
-# Mobile Page Give Information About Your Iphone
-# Using HTML / Bootstrap / CSS / JavaScript
-# Adding Zoom Feature For Mobile Image To See It 
-# Adding Table Information About Mobile  
+
 
