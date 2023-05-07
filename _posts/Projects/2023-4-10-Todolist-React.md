@@ -1,5 +1,5 @@
 ---
-title: Todolist
+title: Todolist-React
 classes: wide
 header:
   teaser: https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/0x0.jpg?format=jpg&width=1200
