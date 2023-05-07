@@ -1,5 +1,5 @@
 ---
-title: Profile
+title: Courselist-React
 classes: wide
 header:
   teaser: https://user-images.githubusercontent.com/110494228/198695830-d25b56e1-0795-4e58-96d6-3766341a1173.jpg
@@ -10,4 +10,4 @@ toc: true
 ---
 
 > # Here Is My First Project Using HTML and CSS 
-> ## [Check It Out](https://mohamedadel6.github.io/Profile/)
+> ## [Check It Out](https://mohamedadel6.github.io/Courselist-React/)
