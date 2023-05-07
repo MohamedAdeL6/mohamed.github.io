@@ -2,7 +2,7 @@
 title: Courselist-React
 classes: wide
 header:
-  teaser: https://user-images.githubusercontent.com/110494228/198695830-d25b56e1-0795-4e58-96d6-3766341a1173.jpg
+  teaser: https://www.learndash.com/support/wp-content/uploads/2019/04/learndash-course-page-overview-labels.jpg
 ribbon: MidnightBlue
 categories:
   - Projects
