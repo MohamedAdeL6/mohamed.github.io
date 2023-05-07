@@ -2,7 +2,7 @@
 title: Todolist
 classes: wide
 header:
-  teaser: https://foolishdeveloper.com/wp-content/uploads/2021/11/todo-list-javascript.jpg
+  teaser: https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/0x0.jpg?format=jpg&width=1200
 ribbon: MidnightBlue
 categories:
   - Projects
