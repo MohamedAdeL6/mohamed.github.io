@@ -9,5 +9,13 @@ categories:
 toc: true
 ---
 
-> # Here Is Project Using React
+> # Website for manageing people information (Name, Age, and Email):-
+
+## Adding (Name, Age, and Email) for person
+## Delete (Name, Age, and Email) for person
+
+# find the following feature:
+## resposive website
+
+# Using React
 > ## [Check It Out](https://mohamedadel6.github.io/Todolist-React/)
