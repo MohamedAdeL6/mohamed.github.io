@@ -1,9 +1,5 @@
 # main links
 main:
-   - title: "Blogs"
-     url: /categories/#Blogs
-   - title: "Assignments"
-     url: /categories/#Assignments
    - title: "Projects"
      url: /categories/#Projects
   # - title: "Sample Posts"
