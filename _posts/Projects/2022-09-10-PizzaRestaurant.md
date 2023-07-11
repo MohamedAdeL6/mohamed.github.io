@@ -14,6 +14,9 @@ toc: true
 ## Prices 
 ## Purchase cart
 
+# find the following feature:-
+## Responsive website
+
 # Using HTML, CSS and JS
 
 > ## [Check It Out](https://mohamedadel6.github.io/Pizza-Restaurant/)
