@@ -11,10 +11,15 @@ toc: true
 
 
 
-> # Mobile Page Gives Us Information About Iphon Mobile
+> # Iphone Mobile Page gives us :-
 
-## Adding Zoom Feature For Mobile Image To See It 
-## Adding Table Information About Mobile  
+## Table Information About Mobile  
+## deffirent colors of iphone mobile
+
+# find the following features:-
+## Zoom Feature For Mobile Image To See It 
+## Responsive website
+
 
 # Using HTML / Bootstrap / CSS / JavaScript
 > ## [Check It Out](https://mohamedadel6.github.io/Mobile-Page-With-Bootstrap/)
