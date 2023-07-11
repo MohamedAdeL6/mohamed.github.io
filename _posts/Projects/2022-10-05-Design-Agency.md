@@ -19,6 +19,7 @@ toc: true
 > # please find the following features :-
 ## The colors is saved in Local Storage
 ## Bullets to make scrolling easy in website 
+## Responsive website
 
 > #   Using HTML, CSS, Js 
 > ## [Check It Out](https://mohamedadel6.github.io/Design-Agency/)
