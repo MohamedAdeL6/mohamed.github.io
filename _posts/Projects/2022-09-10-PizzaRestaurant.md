@@ -9,6 +9,12 @@ categories:
 toc: true
 ---
 
-> # Pizza Restaurant Project Using HTML, CSS and JS
+> # Pizza Restaurant Project shows :-
+## Pizza 
+## Prices 
+## Purchase cart
+
+# Using HTML, CSS and JS
+
 > ## [Check It Out](https://mohamedadel6.github.io/Pizza-Restaurant/)
 
