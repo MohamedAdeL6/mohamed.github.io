@@ -1,5 +1,5 @@
 ---
-title: Application Management System Using CRUDS System
+title: Products Management System Using CRUDS System
 classes: wide
 header:
   teaser: https://user-images.githubusercontent.com/110494228/198836154-ecb00d12-7258-44f8-9264-e599af8ca8fe.png
